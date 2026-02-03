@@ -119,13 +119,3 @@ Use Traefik if you need:
 * Automatic HTTPS
 
 ---
-
-## 📚 Learning Context
-
-These notes are prepared for:
-
-* DevOps learning
-* Cloud architecture understanding
-* AWS / Kubernetes exam preparation
-
----
