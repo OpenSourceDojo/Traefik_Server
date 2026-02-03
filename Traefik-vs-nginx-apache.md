@@ -132,4 +132,4 @@ Client → Traefik → App
 
 ---
 
-➡️ **Next file:** `traefik-vs-kong.md`
+➡️ **Next file:** [traefik-vs-kong.md](./traefik-vs-kong.md)

@@ -113,4 +113,4 @@ Traefik handles **traffic entry**, Kong handles **API control**.
 
 ---
 
-➡️ **Next file:** `real-world-use-cases.md`
+➡️ **Next file:** [real-world-use-cases.md](./real-world-use-cases.md)

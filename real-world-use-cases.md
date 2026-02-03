@@ -168,4 +168,4 @@ Avoid Traefik when:
 
 ---
 
-➡️ **Next file:** `traefik-vs-istio.md`
+➡️ **Next file:** [traefik-vs-istio.md](./traefik-vs-istio.md)
